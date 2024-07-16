@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Character
+  - Hits
+  - Enemies
+  - Attack
+  - Heal
+  - Portal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Object
+  - Terrain
+  - Background
+  - Ground
+  - Enemies
+  - Attack
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background6
+    uniqueID: 4026413423
+    locked: 0
+  - name: Background5
+    uniqueID: 2065692051
+    locked: 0
+  - name: Backround4
+    uniqueID: 2057686155
+    locked: 0
+  - name: Background3
+    uniqueID: 1316244819
+    locked: 0
+  - name: Background2
+    uniqueID: 4198792023
+    locked: 0
+  - name: Background
+    uniqueID: 4264484261
+    locked: 0
+  - name: Terrain
+    uniqueID: 760347501
+    locked: 0
+  - name: Column
+    uniqueID: 2032382451
+    locked: 0
+  - name: Object
+    uniqueID: 2845365375
+    locked: 0
+  - name: Player
+    uniqueID: 833643945
+    locked: 0
